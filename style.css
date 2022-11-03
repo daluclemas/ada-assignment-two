@@ -92,6 +92,10 @@ body {
   margin-right: 5px;
 }
 
+.lists li > span {
+  text-transform: uppercase;
+}
+
 @media (min-width: 768px) {
   .card-wrapper {
     width: 400px;
